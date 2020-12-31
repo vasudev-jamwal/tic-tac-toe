@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 30%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.App > * {
+  flex: 1 1 33%;
+}
